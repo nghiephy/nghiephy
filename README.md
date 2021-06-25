@@ -1,5 +1,7 @@
 ### Hi there, I'm Nghiep-Nguyen [myBlog][website] 👋
 
+[![Website](https://img.shields.io/static/v1?label=lapnghiepvn.cf&message=UP&color=%3CCOLOR%3E?style=plastic&logo=appveyor)](https://www.lapnghiepvn.cf)
+
 ## I'm a student in CTU, my major is Information Technology!!
 
 - 🔭 I just created my first blog: [My Blog!][website]!
