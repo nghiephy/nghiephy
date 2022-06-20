@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[website]: https://www.lapnghiepvn.cf
+[website]: https://www.lapnghiepvn.ga
 [github]: https://github.com/nghiephy
 [facebook]: https://www.facebook.com/profile.php?id=100010699425720
 [linkedin]: https://www.linkedin.com/in/nguyen-nghiep-04a52b141
